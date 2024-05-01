@@ -1,2 +1,3 @@
 # Jokenpo.py
-Jogo simples de pedra papel e tesoura feito com python
+Jogo simples de pedra papel e tesoura feito com python e sqlite3
+
